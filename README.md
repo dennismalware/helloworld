@@ -1,2 +1,3 @@
 # helloworld
-Learning Repo
+Learning Repository.
+Use as you like.
